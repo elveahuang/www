@@ -1,0 +1,6 @@
+.idea
+dist
+public/static
+dist-zip
+node_modules
+src/main/resources/static

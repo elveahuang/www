@@ -1,0 +1,9 @@
+@import '../styles/tailwind.css';
+@import '../styles/libs.css';
+
+html,
+body,
+.app-container,
+.app-swiper {
+    @apply h-full min-h-full w-full min-w-full bg-sky-100;
+}
