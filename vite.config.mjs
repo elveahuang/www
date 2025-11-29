@@ -28,12 +28,7 @@ export default defineConfig(({ command, mode }) => {
             copy({
                 targets: [
                     {
-                        src: [
-                            'node_modules/layui/dist/css',
-                            'node_modules/layui/dist/font',
-                            'node_modules/layui/dist/layui.js',
-                            'node_modules/layui/dist/layui.js.map',
-                        ],
+                        src: ['node_modules/layui/dist/css', 'node_modules/layui/dist/layui.js', 'node_modules/layui/dist/layui.js.map'],
                         dest: 'public/static/layui',
                     },
                     {

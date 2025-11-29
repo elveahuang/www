@@ -1,1 +1,3 @@
-layui.layer.alert('hello world');
+import { layer } from 'layui';
+
+layer.alert('hello world');

@@ -1,8 +1,0 @@
-@import 'bootstrap/dist/css/bootstrap.min.css';
-
-.captcha-container {
-    width: 600px;
-    height: 200px;
-    border: 1px solid #ededed;
-    margin: 0 auto;
-}
