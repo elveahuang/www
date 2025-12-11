@@ -14,7 +14,7 @@
         "@popperjs/core": "^2.11.8",
         "bootstrap": "^5.3.8",
         "cropperjs": "^2.1.0",
-        "daisyui": "^5.5.8",
+        "daisyui": "^5.5.11",
         "date-fns": "^4.1.0",
         "es-toolkit": "^1.42.0",
         "iconify-icon": "^3.0.2",
@@ -38,10 +38,10 @@
         "prettier-plugin-tailwindcss": "^0.7.2",
         "rollup-plugin-copy": "^3.5.0",
         "tailwindcss": "^4.1.17",
-        "vite": "^7.2.6",
+        "vite": "^7.2.7",
         "vite-jsconfig-paths": "^2.0.1",
         "vite-plugin-vconsole": "^2.1.1",
         "vite-plugin-zip-pack": "^1.2.4"
     },
-    "packageManager": "pnpm@10.24.0"
+    "packageManager": "pnpm@10.25.0"
 }

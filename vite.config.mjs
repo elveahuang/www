@@ -43,5 +43,8 @@ export default defineConfig(({ command, mode }) => {
                 hook: process.env.NODE_ENV === 'production' ? 'writeBundle' : 'buildStart',
             }),
         ],
+        server: {
+            host: '0.0.0.0',
+        },
     };
 });
