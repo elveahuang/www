@@ -14,20 +14,20 @@
         "@popperjs/core": "^2.11.8",
         "bootstrap": "^5.3.8",
         "cropperjs": "^2.1.0",
-        "daisyui": "^5.5.11",
+        "daisyui": "^5.5.14",
         "date-fns": "^4.1.0",
-        "es-toolkit": "^1.42.0",
+        "es-toolkit": "^1.43.0",
         "iconify-icon": "^3.0.2",
-        "jquery": "^4.0.0-0",
-        "layui": "^3.0.0-0",
+        "jquery": "4.0.0-rc.1",
+        "layui": "3.0.0-alpha.1",
         "swiper": "^12.0.3"
     },
     "devDependencies": {
-        "@eslint/js": "^9.39.1",
-        "@tailwindcss/cli": "^4.1.17",
-        "@tailwindcss/vite": "^4.1.17",
+        "@eslint/js": "^9.39.2",
+        "@tailwindcss/cli": "^4.1.18",
+        "@tailwindcss/vite": "^4.1.18",
         "@types/jquery": "^3.5.33",
-        "eslint": "^9.39.1",
+        "eslint": "^9.39.2",
         "eslint-config-prettier": "^10.1.8",
         "eslint-define-config": "^2.1.0",
         "eslint-plugin-prettier": "^5.5.4",
@@ -37,11 +37,11 @@
         "prettier-plugin-organize-imports": "^4.3.0",
         "prettier-plugin-tailwindcss": "^0.7.2",
         "rollup-plugin-copy": "^3.5.0",
-        "tailwindcss": "^4.1.17",
-        "vite": "^7.2.7",
+        "tailwindcss": "^4.1.18",
+        "vite": "^7.3.0",
         "vite-jsconfig-paths": "^2.0.1",
         "vite-plugin-vconsole": "^2.1.1",
         "vite-plugin-zip-pack": "^1.2.4"
     },
-    "packageManager": "pnpm@10.25.0"
+    "packageManager": "pnpm@10.27.0"
 }
