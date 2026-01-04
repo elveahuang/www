@@ -11,6 +11,8 @@
     },
     "dependencies": {
         "@popperjs/core": "^2.11.8",
+        "@tanstack/table-core": "^8.21.3",
+        "@tanstack/virtual-core": "^3.13.14",
         "animejs": "^4.2.2",
         "bootstrap": "^5.3.8",
         "cropperjs": "^2.1.0",
@@ -34,7 +36,7 @@
         "eslint-config-prettier": "^10.1.8",
         "eslint-define-config": "^2.1.0",
         "eslint-plugin-prettier": "^5.5.4",
-        "globals": "^16.5.0",
+        "globals": "^17.0.0",
         "path": "^0.12.7",
         "prettier": "^3.7.4",
         "prettier-plugin-organize-imports": "^4.3.0",
