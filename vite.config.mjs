@@ -9,11 +9,11 @@ export default defineConfig(({ command, mode }) => {
     const env = loadEnv(mode, process.cwd());
     console.log(`command - ${command}. mode - ${mode}.`);
     console.log(env);
+
     return {
         base: env.VITE_APP_BASE ?? '/',
         build: {
-            target: 'ES2020',
-            rollupOptions: {
+            rolldownOptions: {
                 input: {
                     index: resolve(__dirname, 'index.html'),
                     person: resolve(__dirname, 'pages/person.html'),
