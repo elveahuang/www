@@ -1,5 +1,3 @@
-onlyBuiltDependencies:
-  - '@parcel/watcher'
-  - '@tailwindcss/oxide'
-  - canvas
-  - esbuild
+allowBuilds:
+    '@parcel/watcher': true
+    canvas: true

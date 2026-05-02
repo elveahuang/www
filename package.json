@@ -50,5 +50,5 @@
         "vite-plugin-vconsole": "^2.1.1",
         "vite-plugin-zip-pack": "^1.2.4"
     },
-    "packageManager": "pnpm@10.32.1"
+    "packageManager": "pnpm@11.0.3"
 }
